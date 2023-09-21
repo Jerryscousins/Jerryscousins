@@ -13,3 +13,8 @@ $Jerryscousins$ 需要找到一个适合自己的开发路线。
 现在，一切的一切
 
 从 **hello** , **world** 开始。
+
+|![猫扑毛](Iron4/gov/War_economy.png) |![ ](Iron4/gov/Civilian_economy.png)|![ ](Iron4/gov/Early_mobilization.png)|![ ](Iron4/gov/Isolation.png)|![ ](Iron4/gov/Total_mobilization.png)|![ ](Iron4/gov/Partial_mobilization.png)|![ ](Iron4/gov/Undisturbed_isolation.png)|
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+|勇气|消耗|补给|隔离|总动员|支援|休假|
+
